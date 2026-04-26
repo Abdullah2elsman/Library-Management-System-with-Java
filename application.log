@@ -1,0 +1,322 @@
+2024-12-10T04:57:36.229935200 - Successfully added book: Technology by someone
+2024-12-10T04:58:34.086168700 - Successfully added book: Technology by someone
+2024-12-10T05:14:49.571296300 - Successfully update book: Technology by someone
+2024-12-18T17:24:14.797079400 - Failed login attempt for user: test1
+2024-12-18T17:24:22.736050600 - User logged in successfully: test
+2024-12-18T17:26:36.282572800 - User logged in successfully: test
+2024-12-18T17:27:04.401941400 - User logged in successfully: test
+2024-12-18T17:28:06.939170800 - Failed login attempt for user: test1
+2024-12-18T17:28:47.318634400 - Failed login attempt for user: test
+2024-12-18T17:30:04.227231600 - Failed login attempt for user: test
+2024-12-18T17:30:09.265276700 - Failed login attempt for user: test2
+2024-12-18T17:30:34.831344700 - Failed login attempt for user: test2
+2024-12-18T17:31:19.810337600 - User logged in successfully: test
+2024-12-18T17:36:49.980247200 - User logged in successfully: test
+2024-12-18T17:38:45.713647600 - User logged in successfully: testID: 200Email: test2
+2024-12-18T17:38:53.552375100 - Failed login attempt for user: test1
+2024-12-18T17:43:47.692798800 - User logged in successfully: testID: 200Email: test2
+2024-12-18T18:07:55.508459700 - User logged in successfully: testID: 200Email: test2
+2024-12-18T18:13:55.336086100 - User logged in successfully: testID: 200Email: test2
+2024-12-18T18:14:31.378468500 - User logged in successfully: testID: 200Email: test2
+2024-12-18T18:15:01.164902100 - User logged in successfully: testID: 200Email: test2
+2024-12-18T18:22:46.964232500 - User logged in successfully: testID: 200Email: test2
+2024-12-18T18:24:19.189914200 - User logged in successfully: testID: 200Email: test2
+2024-12-18T18:25:19.148506900 - Failed login attempt for user: test
+2024-12-18T18:25:26.157834800 - User logged in successfully: testID: 2100Email: test
+2024-12-18T18:25:42.729701700 - Failed login attempt for user: test
+2024-12-18T18:25:48.690712200 - User logged in successfully: testID: 200Email: test2
+2024-12-18T19:16:30.315714100 - Failed login attempt for user: بيسش
+2024-12-18T19:16:31.575647 - Failed login attempt for user: بيسش
+2024-12-18T19:16:31.894648900 - Failed login attempt for user: بيسش
+2024-12-18T19:16:32.086953400 - Failed login attempt for user: بيسش
+2024-12-18T19:16:32.253954200 - Failed login attempt for user: بيسش
+2024-12-18T19:16:32.755309400 - Failed login attempt for user: بيسش
+2024-12-18T19:16:33.389371 - Failed login attempt for user: بيسش
+2024-12-18T19:16:36.373408200 - Failed login attempt for user: adf
+2024-12-18T19:16:36.860763 - Failed login attempt for user: adf
+2024-12-18T19:16:37.044765500 - Failed login attempt for user: adf
+2024-12-18T19:16:37.208765700 - Failed login attempt for user: adf
+2024-12-18T19:16:37.371762500 - Failed login attempt for user: adf
+2024-12-18T19:16:37.557762900 - Failed login attempt for user: adf
+2024-12-18T19:16:38.577520200 - Failed login attempt for user: adf
+2024-12-18T19:16:38.758509700 - Failed login attempt for user: adf
+2024-12-18T19:16:38.929418900 - Failed login attempt for user: adf
+2024-12-18T19:16:39.103387200 - Failed login attempt for user: adf
+2024-12-18T19:16:40.604422500 - Failed login attempt for user: adf
+2024-12-18T19:16:40.768721700 - Failed login attempt for user: adf
+2024-12-18T19:16:40.945459 - Failed login attempt for user: adf
+2024-12-18T19:16:41.111490200 - Failed login attempt for user: adf
+2024-12-18T19:16:41.279453800 - Failed login attempt for user: adf
+2024-12-18T19:16:45.087889300 - Failed login attempt for user: test
+2024-12-18T19:16:47.323560700 - User logged in successfully: testID: 2100Email: test
+2024-12-18T19:17:43.895354900 - User logged in successfully: testID: 200Email: test2
+2024-12-18T19:17:50.854108700 - Failed login attempt for user: asd
+2024-12-18T19:17:55.035836200 - Failed login attempt for user: بيسش
+2024-12-18T19:18:01.186049800 - User logged in successfully: testID: 2100Email: test
+2024-12-18T19:46:35.461267500 - Book with ISBN 1234-123 does not exist in the database.
+2024-12-18T19:48:10.619228900 - Book with ISBN 1234-1234     does not exist in the database.
+2024-12-18T19:49:19.687010500 - Book with ISBN 1234-1234 is already borrowed.
+2024-12-18T19:49:52.155189 - Book with ISBN 1234-1234 is already borrowed.
+2024-12-18T19:51:24.251412300 - Book with ISBN 1234-1234 borrowed successfully.
+2024-12-18T19:59:34.816385500 - Book with ISBN 1234-1234 is already borrowed.
+2024-12-18T20:00:10.335532500 - Book with ISBN 1234-1234 is already borrowed.
+2024-12-18T20:00:25.750160600 - User logged in successfully: testID: 200Email: test2
+2024-12-18T20:49:52.775640200 - Book with ISBN 1234-1234 borrowed successfully.
+2024-12-18T20:50:08.900592900 - Book with ISBN 1234-1234 is already borrowed.
+2024-12-18T20:50:19.360413900 - Book with ISBN 1234-1234 is already borrowed.
+2024-12-18T20:50:44.980555600 - Book with ISBN 1234-1234 is already borrowed.
+2024-12-18T20:53:13.355588400 - Book with ISBN 1234-1234 is already borrowed.
+2024-12-18T20:57:30.215545100 - Book with ISBN 123 does not exist in the database.
+2024-12-18T20:57:40.725028900 - Book with ISBN 1234-1234 is already borrowed.
+2024-12-18T20:57:53.075933800 - Book with ISBN 1234 -1234 does not exist in the database.
+2024-12-18T20:58:02.277307100 - Book with ISBN 1234-234 does not exist in the database.
+2024-12-18T20:58:16.980200600 - Book with ISBN 1234-1234 is already borrowed.
+2024-12-18T20:58:49.063718800 - Book with ISBN 1234-1234 is already borrowed.
+2024-12-18T20:59:02.633595600 - Book with ISBN 1234-1234 is already borrowed.
+2024-12-18T20:59:13.581838500 - User logged in successfully: testID: 200Email: test2
+2024-12-18T20:59:19.810693400 - Book with ISBN 1234-1234 is already borrowed.
+2024-12-18T20:59:50.652683400 - Book with ISBN 1234-1234 borrowed successfully.
+2024-12-18T21:02:02.630701900 - Book with ISBN 234-1234 does not exist in the database.
+2024-12-18T21:02:18.484901100 - User logged in successfully: testID: 200Email: test2
+2024-12-18T21:03:02.726368800 - Book with ISBN as does not exist in the database.
+2024-12-18T21:04:45.192393200 - User logged in successfully: testID: 200Email: test2
+2024-12-18T21:04:49.885232100 - Book with ISBN 1 does not exist in the database.
+2024-12-18T21:04:55.454453500 - Book with ISBN 1234 does not exist in the database.
+2024-12-18T21:04:59.762635400 - Book with ISBN 1234-1234 is already borrowed.
+2024-12-18T21:13:48.644985400 - Book with ISBN 123 does not exist in the database.
+2024-12-18T21:14:05.898437100 - Book with ISBN 1234-1234 is already borrowed.
+2024-12-18T21:14:47.041081600 - Book with ISBN 1234-1234 is already returned.
+2024-12-18T21:14:53.856629800 - Book with ISBN 1234-123 does not exist in the database.
+2024-12-18T21:15:50.706821700 - Book with ISBN 1234-1234 return successfully.
+2024-12-19T00:44:59.762674 - User logged in successfully: testID: 2100Email: test
+2024-12-19T16:21:33.418698600 - User logged in successfully: testID: 2100Email: test
+2024-12-20T15:29:59.049102500 - Successfully added book: ww by ww
+2024-12-20T15:30:59.596585400 - User logged in successfully: testID: 2100Email: test
+2024-12-20T15:31:22.702462300 - Successfully added book: ww1 by ww
+2024-12-20T15:33:06.590174700 - Successfully added book: rewq by req
+2024-12-20T16:00:22.800928100 - No book found with ISBN: 12345
+2024-12-20T16:20:52.134122600 - Error during updating book: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'isbn = '1234678'' at line 1
+2024-12-20T16:22:14.225084100 - Error during updating book: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'isbn = '1234'' at line 1
+2024-12-20T16:24:00.431282300 - No book found with ISBN: 1234567
+2024-12-20T16:29:47.317912300 - Successfully updated book: eee by eee
+2024-12-20T16:43:03.243038800 - Failed to delete book: 
+2024-12-20T16:50:25.996981200 - Successfully delete book: 123
+2024-12-20T17:54:13.011537200 - Successfully added book: test by test
+2024-12-20T17:54:28.266896400 - Successfully added book: test1 by test
+2024-12-20T17:54:32.995285 - Successfully added book: test12 by test
+2024-12-20T17:54:36.169414400 - Successfully added book: test123 by test
+2024-12-20T17:54:43.102491800 - Successfully added book: test12341 by test
+2024-12-20T17:54:45.934874600 - Successfully added book: test123411 by test
+2024-12-20T17:54:48.066178200 - Successfully added book: test1234111 by test
+2024-12-20T17:54:50.110413 - Successfully added book: test12341111 by test
+2024-12-20T17:55:45.005769 - Successfully added book: 321 by test
+2024-12-20T17:55:48.297982900 - Successfully added book: 3211 by test
+2024-12-20T17:55:50.535924900 - Successfully added book: 32111 by test
+2024-12-20T17:55:52.921718300 - Successfully added book: 321111 by test
+2024-12-20T17:55:55.176245800 - Successfully added book: 3211111 by test
+2024-12-20T18:08:00.974024100 - Successfully added book: ifd0 by ss
+2024-12-20T18:08:00.979029800 - Successfully added book: ifd1 by ss
+2024-12-20T18:08:00.984028400 - Successfully added book: ifd2 by ss
+2024-12-20T18:08:00.988026700 - Successfully added book: ifd3 by ss
+2024-12-20T18:08:00.992026600 - Successfully added book: ifd4 by ss
+2024-12-20T18:08:00.997029900 - Successfully added book: ifd5 by ss
+2024-12-20T18:08:01.001027400 - Successfully added book: ifd6 by ss
+2024-12-20T18:08:01.006026100 - Successfully added book: ifd7 by ss
+2024-12-20T18:08:01.009025600 - Successfully added book: ifd8 by ss
+2024-12-20T18:08:01.016025900 - Successfully added book: ifd9 by ss
+2024-12-20T18:08:01.020023900 - Successfully added book: ifd10 by ss
+2024-12-20T18:08:01.023039100 - Successfully added book: ifd11 by ss
+2024-12-20T18:08:01.027027400 - Successfully added book: ifd12 by ss
+2024-12-20T18:08:01.031026900 - Successfully added book: ifd13 by ss
+2024-12-20T18:08:01.034026300 - Successfully added book: ifd14 by ss
+2024-12-20T18:08:01.037025600 - Successfully added book: ifd15 by ss
+2024-12-20T18:08:01.040025200 - Successfully added book: ifd16 by ss
+2024-12-20T18:08:01.043041 - Successfully added book: ifd17 by ss
+2024-12-20T18:08:01.046023800 - Successfully added book: ifd18 by ss
+2024-12-20T18:08:01.049026400 - Successfully added book: ifd19 by ss
+2024-12-20T18:08:01.052030 - Successfully added book: ifd20 by ss
+2024-12-20T18:08:01.055040300 - Successfully added book: ifd21 by ss
+2024-12-20T18:08:01.058024600 - Successfully added book: ifd22 by ss
+2024-12-20T18:08:01.061025400 - Successfully added book: ifd23 by ss
+2024-12-20T18:08:01.065026600 - Successfully added book: ifd24 by ss
+2024-12-20T18:08:01.068029300 - Successfully added book: ifd25 by ss
+2024-12-20T18:08:01.071025900 - Successfully added book: ifd26 by ss
+2024-12-20T18:08:01.074025700 - Successfully added book: ifd27 by ss
+2024-12-20T18:08:01.077028500 - Successfully added book: ifd28 by ss
+2024-12-20T18:08:01.080025800 - Successfully added book: ifd29 by ss
+2024-12-20T18:08:01.083025500 - Successfully added book: ifd30 by ss
+2024-12-20T18:08:01.086038700 - Successfully added book: ifd31 by ss
+2024-12-20T18:08:01.089043 - Successfully added book: ifd32 by ss
+2024-12-20T18:08:01.092028100 - Successfully added book: ifd33 by ss
+2024-12-20T18:08:01.095026200 - Successfully added book: ifd34 by ss
+2024-12-20T18:08:01.099027600 - Successfully added book: ifd35 by ss
+2024-12-20T18:08:01.102029 - Successfully added book: ifd36 by ss
+2024-12-20T18:08:01.109048900 - Successfully added book: ifd37 by ss
+2024-12-20T18:08:01.112025800 - Successfully added book: ifd38 by ss
+2024-12-20T18:08:01.115024900 - Successfully added book: ifd39 by ss
+2024-12-20T18:08:01.118025800 - Successfully added book: ifd40 by ss
+2024-12-20T18:08:01.121038500 - Successfully added book: ifd41 by ss
+2024-12-20T18:08:01.124040100 - Successfully added book: ifd42 by ss
+2024-12-20T18:08:01.127069900 - Successfully added book: ifd43 by ss
+2024-12-20T18:08:01.131027600 - Successfully added book: ifd44 by ss
+2024-12-20T18:08:01.134028500 - Successfully added book: ifd45 by ss
+2024-12-20T18:08:01.138029400 - Successfully added book: ifd46 by ss
+2024-12-20T18:08:01.141026200 - Successfully added book: ifd47 by ss
+2024-12-20T18:08:01.144027500 - Successfully added book: ifd48 by ss
+2024-12-20T18:08:01.147026200 - Successfully added book: ifd49 by ss
+2024-12-20T18:16:55.401173400 - Successfully delete book: ifd0
+2024-12-20T18:16:55.415171900 - Successfully delete book: ifd1
+2024-12-20T18:16:55.418175300 - Successfully delete book: ifd2
+2024-12-20T18:16:55.422173400 - Successfully delete book: ifd3
+2024-12-20T18:16:55.425172600 - Successfully delete book: ifd4
+2024-12-20T18:16:55.429170900 - Successfully delete book: ifd5
+2024-12-20T18:16:55.433172900 - Successfully delete book: ifd6
+2024-12-20T18:16:55.436170200 - Successfully delete book: ifd7
+2024-12-20T18:16:55.439170100 - Successfully delete book: ifd8
+2024-12-20T18:16:55.443171200 - Successfully delete book: ifd9
+2024-12-20T18:16:55.446171300 - Successfully delete book: ifd10
+2024-12-20T18:16:55.449179100 - Successfully delete book: ifd11
+2024-12-20T18:16:55.452178600 - Successfully delete book: ifd12
+2024-12-20T18:16:55.455170800 - Successfully delete book: ifd13
+2024-12-20T18:16:55.459173300 - Successfully delete book: ifd14
+2024-12-20T18:16:55.462170 - Successfully delete book: ifd15
+2024-12-20T18:16:55.465170800 - Successfully delete book: ifd16
+2024-12-20T18:16:55.469170200 - Successfully delete book: ifd17
+2024-12-20T18:16:55.472170200 - Successfully delete book: ifd18
+2024-12-20T18:16:55.478171100 - Successfully delete book: ifd19
+2024-12-20T18:16:55.481170500 - Successfully delete book: ifd20
+2024-12-20T18:16:55.484171400 - Successfully delete book: ifd21
+2024-12-20T18:16:55.487182100 - Successfully delete book: ifd22
+2024-12-20T18:16:55.490171700 - Successfully delete book: ifd23
+2024-12-20T18:16:55.495175300 - Successfully delete book: ifd24
+2024-12-20T18:16:55.498171600 - Successfully delete book: ifd25
+2024-12-20T18:16:55.501171700 - Successfully delete book: ifd26
+2024-12-20T18:16:55.504172400 - Successfully delete book: ifd27
+2024-12-20T18:16:55.507171400 - Successfully delete book: ifd28
+2024-12-20T18:16:55.510171400 - Successfully delete book: ifd29
+2024-12-20T18:16:55.514172600 - Successfully delete book: ifd30
+2024-12-20T18:16:55.517172800 - Successfully delete book: ifd31
+2024-12-20T18:16:55.520172300 - Successfully delete book: ifd32
+2024-12-20T18:16:55.523172900 - Successfully delete book: ifd33
+2024-12-20T18:16:55.526171500 - Successfully delete book: ifd34
+2024-12-20T18:16:55.530171100 - Successfully delete book: ifd35
+2024-12-20T18:16:55.533174 - Successfully delete book: ifd36
+2024-12-20T18:16:55.537172900 - Successfully delete book: ifd37
+2024-12-20T18:16:55.540171500 - Successfully delete book: ifd38
+2024-12-20T18:16:55.543169600 - Successfully delete book: ifd39
+2024-12-20T18:16:55.546170800 - Successfully delete book: ifd40
+2024-12-20T18:16:55.549171700 - Successfully delete book: ifd41
+2024-12-20T18:16:55.552170500 - Successfully delete book: ifd42
+2024-12-20T18:16:55.555171800 - Successfully delete book: ifd43
+2024-12-20T18:16:55.558171800 - Successfully delete book: ifd44
+2024-12-20T18:16:55.564827200 - Successfully delete book: ifd45
+2024-12-20T18:16:55.568825600 - Successfully delete book: ifd46
+2024-12-20T18:16:55.571826300 - Successfully delete book: ifd47
+2024-12-20T18:16:55.574825900 - Successfully delete book: ifd48
+2024-12-20T18:16:55.578826100 - Successfully delete book: ifd49
+2024-12-20T18:35:31.508777200 - User logged in successfully: testID: 2100Email: test
+2024-12-20T18:35:50.236593100 - User logged in successfully: testID: 200Email: test2
+2024-12-20T19:34:30.790658100 - Error adding user: Abdullah Elsman - FUNCTION library.MAX does not exist. Check the 'Function Name Parsing and Resolution' section in the Reference Manual
+2024-12-20T19:35:50.208186700 - Error adding user: a - FUNCTION library.MAX does not exist. Check the 'Function Name Parsing and Resolution' section in the Reference Manual
+2024-12-20T19:38:30.809332900 - Error adding user: A - FUNCTION library.MAX does not exist. Check the 'Function Name Parsing and Resolution' section in the Reference Manual
+2024-12-20T19:39:18.011254100 - Error adding user: A - FUNCTION library.MAX does not exist. Check the 'Function Name Parsing and Resolution' section in the Reference Manual
+2024-12-20T19:41:48.548492600 - Successfully added user: Abdullah Elsman with role: ADMIN
+2024-12-20T19:50:15.036357300 - Successfully added user: Mohammed Ashraf with role: ADMIN
+2024-12-20T19:50:29.606487500 - Failed login attempt for user: mohammed@gmail.com
+2024-12-20T19:50:34.471397900 - Failed login attempt for user: mohammed@gmail.com
+2024-12-20T19:52:28.004367600 - Error adding user: abdo - No value specified for parameter 5
+2024-12-20T19:53:13.380807100 - Successfully added user: abdo with role: ADMIN
+2024-12-20T19:54:25.287581500 - Successfully added user: abdo15 with role: ADMIN
+2024-12-20T20:00:30.166028600 - Failed login attempt for user: abdo@gmail.com
+2024-12-20T20:01:04.798209200 - Failed login attempt for user: abdo@gmail.com
+2024-12-20T20:01:11.900299900 - Failed login attempt for user: abdo@gmail.com
+2024-12-20T20:01:39.022383500 - Failed login attempt for user: abdo@gmail.com
+2024-12-20T20:01:44.900781900 - Failed login attempt for user: abdo@gmail.com
+2024-12-20T20:01:57.143069200 - User logged in successfully: abdoID: 2103Email: abdo@gmail.com
+2024-12-20T20:04:36.794170800 - Successfully added user: NN with role: ADMIN
+2024-12-20T20:05:46.246202300 - Successfully added user: VV with role: ADMIN
+2024-12-20T20:21:09.533539 - Successfully added user: CC with role: REGULAR_USER
+2024-12-20T20:24:26.121200100 - User logged in successfully: CCID: 2107Email: CC
+2024-12-20T20:24:40.827482300 - Book with ISBN 1234 does not exist in the database.
+2024-12-20T20:24:53.301618900 - Book with ISBN 123456 is already borrowed.
+2024-12-21T02:00:19.836760600 - User logged in successfully: CCID: 2107Email: CC
+2024-12-21T02:00:42.080287800 - Book with ISBN 1234567 is already borrowed.
+2024-12-21T02:00:58.579528500 - Book with ISBN 4312431 is already borrowed.
+2024-12-21T02:02:03.689818100 - Book with ISBN 4312431 borrowed successfully.
+2024-12-21T02:02:03.730415900 - Error while adding transaction: Unknown column 'trans_type' in 'field list'
+2024-12-21T02:02:18.176447100 - User logged in successfully: testID: 2100Email: test
+2024-12-21T02:03:55.838160500 - Error while adding transaction: Unknown column 'trans_type' in 'field list'
+2024-12-21T02:04:19.235811200 - Error while adding transaction: Cannot add or update a child row: a foreign key constraint fails (`library`.`transactions`, CONSTRAINT `transactions_ibfk_1` FOREIGN KEY (`isbn`) REFERENCES `books` (`isbn`))
+2024-12-21T02:06:13.118370200 - Error while adding transaction: Cannot add or update a child row: a foreign key constraint fails (`library`.`transactions`, CONSTRAINT `transactions_ibfk_1` FOREIGN KEY (`isbn`) REFERENCES `books` (`isbn`))
+2024-12-21T02:08:00.715491500 - Transaction added successfully for book ISBN: 1234567, user ID: 2105
+2024-12-21T22:52:28.102849900 - User logged in successfully: testID: 2100Email: test
+2024-12-21T22:53:57.701643500 - User logged in successfully: testID: 2100Email: test
+2024-12-21T22:55:09.769865700 - Successfully added book: any by test
+2024-12-21T22:55:44.367902100 - User logged in successfully: testID: 2100Email: test
+2024-12-21T22:56:09.897024600 - Successfully delete book: 55
+2024-12-21T22:56:12.136337800 - Failed to delete book: 55
+2024-12-21T22:57:01.473929300 - Successfully added book: any by test
+2024-12-21T22:57:58.776366100 - User logged in successfully: testID: 200Email: test2
+2024-12-21T22:58:22.167693200 - Book with ISBN 55 borrowed successfully.
+2024-12-21T22:58:22.172730100 - Transaction added successfully for book ISBN: 55, user ID: 200
+2024-12-21T22:58:32.212000900 - Book with ISBN 556 does not exist in the database.
+2024-12-21T22:58:48.172639 - Book with ISBN 4312431 is already borrowed.
+2024-12-21T22:58:54.216092400 - Book with ISBN 55 is already borrowed.
+2024-12-21T22:59:00.479198700 - Book with ISBN 55 return successfully.
+2024-12-21T22:59:00.484195900 - Transaction added successfully for book ISBN: 55, user ID: 200
+2024-12-21T22:59:04.328698900 - Book with ISBN 55 is already returned.
+2024-12-21T22:59:10.493198900 - Book with ISBN 55 borrowed successfully.
+2024-12-21T22:59:10.499198300 - Transaction added successfully for book ISBN: 55, user ID: 200
+2024-12-21T22:59:12.462439500 - Book with ISBN 55 is already borrowed.
+2024-12-21T22:59:17.151964900 - Book with ISBN 55 return successfully.
+2024-12-21T22:59:17.155964800 - Transaction added successfully for book ISBN: 55, user ID: 200
+2024-12-21T22:59:21.514850100 - Book with ISBN 4312431 return successfully.
+2024-12-21T22:59:21.519846200 - Transaction added successfully for book ISBN: 4312431, user ID: 200
+2024-12-21T22:59:32.220372500 - User logged in successfully: testID: 2100Email: test
+2024-12-21T23:14:18.525338400 - Error during login for user: test - No operations allowed after connection closed.
+2024-12-21T23:14:22.966693500 - Error during login for user: test - No operations allowed after connection closed.
+2024-12-21T23:14:43.380730 - User logged in successfully: testID: 2100Email: test
+2024-12-21T23:15:16.236007900 - User logged in successfully: testID: 2100Email: test
+2024-12-21T23:17:34.249129300 - Failed login attempt for user: test1
+2024-12-21T23:17:47.732950 - User logged in successfully: testID: 2100Email: test
+2024-12-21T23:22:51.753449600 - User logged in successfully: testID: 2100Email: test
+2024-12-21T23:23:07.342397800 - Successfully added book: 54 by 54
+2024-12-21T23:24:28.234299600 - User logged in successfully: testID: 2100Email: test
+2024-12-21T23:25:04.928185900 - Successfully added book: ZZ by ZZ
+2024-12-22T00:34:02.158327800 - Failed login attempt for user: test2
+2024-12-22T00:34:05.891645100 - User logged in successfully: testID: 200Email: test2
+2024-12-22T00:34:22.279681100 - User logged in successfully: testID: 2100Email: test
+2024-12-22T00:35:06.750652500 - Successfully added book: Article by Mohammed
+2024-12-22T00:35:21.423424600 - Successfully added book: Article1 by Mohammed
+2024-12-22T00:36:23.401009200 - Successfully delete book: 58
+2024-12-22T00:36:25.502057 - Failed to delete book: 58
+2024-12-22T00:36:30.841465100 - Successfully delete book: 54
+2024-12-22T00:36:32.119464900 - Failed to delete book: 54
+2024-12-22T00:37:20.928596800 - Successfully updated book: Software by Mohammed123
+2024-12-22T00:38:00.231856500 - No book found with ISBN: 888
+2024-12-22T00:38:13.292533700 - No book found with ISBN: 888
+2024-12-22T00:42:39.847036500 - User logged in successfully: testID: 2100Email: test
+2024-12-22T00:46:40.212136700 - User logged in successfully: testID: 2100Email: test
+2024-12-22T00:46:54.378857100 - Successfully updated book: Software by Mohammed123
+2024-12-22T00:46:56.410791900 - No book found with ISBN: 88
+2024-12-22T00:47:39.701336700 - User logged in successfully: testID: 200Email: test2
+2024-12-22T00:47:49.836323 - Book with ISBN 88 borrowed successfully.
+2024-12-22T00:47:49.841324700 - Transaction added successfully for book ISBN: 88, user ID: 200
+2024-12-22T00:47:53.677290300 - Book with ISBN 88 is already borrowed.
+2024-12-22T00:47:58.716839100 - Book with ISBN 888 does not exist in the database.
+2024-12-22T00:48:04.293123100 - Book with ISBN 88 is already borrowed.
+2024-12-22T00:48:09.381269800 - Book with ISBN 888 does not exist in the database.
+2024-12-22T00:48:11.743187600 - Book with ISBN 88 return successfully.
+2024-12-22T00:48:11.747185100 - Transaction added successfully for book ISBN: 88, user ID: 200
+2024-12-22T00:48:14.108983500 - Book with ISBN 88 is already returned.
+2024-12-22T00:48:24.561011200 - User logged in successfully: testID: 2100Email: test
+2024-12-22T00:49:10.833879 - Successfully added user: Ziad Elkalaf with role: REGULAR_USER
+2024-12-22T00:49:50.850612700 - User logged in successfully: Ziad ElkalafID: 2108Email: ziad@kalaf.kalaf
+2024-12-22T00:50:09.767377400 - Failed login attempt for user: ziad@kalaf.kalaf
+2024-12-22T00:50:12.596345600 - User logged in successfully: Ziad ElkalafID: 2108Email: ziad@kalaf.kalaf
+2024-12-22T01:05:45.497521400 - User logged in successfully: testID: 2100Email: test
+2024-12-22T01:20:39.527972100 - User logged in successfully: testID: 200Email: test2
+2024-12-22T01:20:51.131123 - Book with ISBN 55 borrowed successfully.
+2024-12-22T01:20:51.137121 - Transaction added successfully for book ISBN: 55, user ID: 200
+2024-12-22T01:21:02.578046400 - Book with ISBN 55 return successfully.
+2024-12-22T01:21:02.582008500 - Transaction added successfully for book ISBN: 55, user ID: 200
